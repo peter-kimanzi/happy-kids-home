@@ -1,0 +1,408 @@
+Uri: https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\ajax\libs\webfont\1.6.26\webfont.js
+Content Type: text/javascript
+
+Uri: https://assets-global.website-files.com/5d7f98a1e770f0afdfe49601/5d7f9914cad5179f43d15beb_architecture-blur-candlelight-205304.jpg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7f98a1e770f0afdfe49601\5d7f9914cad5179f43d15beb_architecture-blur-candlelight-205304.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/5d7f98a1e770f0afdfe49601/5d7f9977aae03601363796e9_jeremy-bishop-EwKXn5CapA4-unsplash.jpg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7f98a1e770f0afdfe49601\5d7f9977aae03601363796e9_jeremy-bishop-EwKXn5CapA4-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/5d7f98a1e770f0afdfe49601/5d7f999dcbe7bd8a147516cf_edward-cisneros-408848-unsplash.jpg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7f98a1e770f0afdfe49601\5d7f999dcbe7bd8a147516cf_edward-cisneros-408848-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/5d7f98a1e770f0afdfe49601/5d7f99bb17c02c3522e3e5ad_david-beale-168546-unsplash.jpg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7f98a1e770f0afdfe49601\5d7f99bb17c02c3522e3e5ad_david-beale-168546-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/5d7f98a1e770f0afdfe49601/5d7f9b96cbe7bd1d467539df_post_1.jpg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7f98a1e770f0afdfe49601\5d7f9b96cbe7bd1d467539df_post_1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/5d7f98a1e770f0afdfe49601/5d7f9ba3a3db0871f63e1b2c_post_2.jpg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7f98a1e770f0afdfe49601\5d7f9ba3a3db0871f63e1b2c_post_2.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/5d7f98a1e770f0afdfe49601/5d7f9babbda9c643ffd12440_post_3.jpg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7f98a1e770f0afdfe49601\5d7f9babbda9c643ffd12440_post_3.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/5d7f98a1e770f0afdfe49601/5d7f9bbb17c02c51afe3ee52_post_4.jpg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7f98a1e770f0afdfe49601\5d7f9bbb17c02c51afe3ee52_post_4.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/5d7f98a1e770f0afdfe49601/5d80ccef2580d200c907bc84_post_5.jpg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7f98a1e770f0afdfe49601\5d80ccef2580d200c907bc84_post_5.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/5d7f98a1e770f0afdfe49601/5d80ccf24f6ce54073defe63_post_5s.jpg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7f98a1e770f0afdfe49601\5d80ccf24f6ce54073defe63_post_5s.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/5d7f98a1e770f0afdfe49601/5d80cd0de4875a49c20b6315_post_6.jpg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7f98a1e770f0afdfe49601\5d80cd0de4875a49c20b6315_post_6.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/5d7f98a1e770f0afdfe49601/5d80cd0eb8b5ea357e8f3842_post_6s.jpg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7f98a1e770f0afdfe49601\5d80cd0eb8b5ea357e8f3842_post_6s.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/5d7f98a1e770f0afdfe49601/5d8d373dad29715016b4d937_awesome-beach-clouds-786882.jpg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7f98a1e770f0afdfe49601\5d8d373dad29715016b4d937_awesome-beach-clouds-786882.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/5d7f98a1e770f0afdfe49601/5d8d3746a3371d9dce81da36_xavier-mouton-photographie-ry_sD0P1ZL0-unsplash.jpg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7f98a1e770f0afdfe49601\5d8d3746a3371d9dce81da36_xavier-mouton-photographie-ry_sD0P1ZL0-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/5d7f98a1e770f0afdfe49601/5d8d3753918e580211e3b590_audience-blur-bokeh-976866.jpg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7f98a1e770f0afdfe49601\5d8d3753918e580211e3b590_audience-blur-bokeh-976866.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/5d7f98a1e770f0afdfe49601/5d8d3765a3371d309481de7f_architecture-bible-blur-236113.jpg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7f98a1e770f0afdfe49601\5d8d3765a3371d309481de7f_architecture-bible-blur-236113.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/5d7f98a1e770f0afdfe49601/5d8d376fad29718699b4dc37_matt-botsford-423576-unsplash.jpg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7f98a1e770f0afdfe49601\5d8d376fad29718699b4dc37_matt-botsford-423576-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/5d7f98a1e770f0afdfe49601/5d8d377a918e58286de3b712_architecture-building-catholicism-208432.jpg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7f98a1e770f0afdfe49601\5d8d377a918e58286de3b712_architecture-building-catholicism-208432.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/5d7f98a1e770f0afdfe49601/5d8d383cad29715b70b4f718_architecture-blur-candlelight-2.jpg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7f98a1e770f0afdfe49601\5d8d383cad29715b70b4f718_architecture-blur-candlelight-2.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/5d7f98a1e770f0afdfe49601/5d8d3849d1b748bd52355b77_architecture-blur-candlelight-3.jpg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7f98a1e770f0afdfe49601\5d8d3849d1b748bd52355b77_architecture-blur-candlelight-3.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/5d7f98a1e770f0afdfe49601/5d8d3855d1b7488ea7355bd1_architecture-blur-candlelight-4.jpg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7f98a1e770f0afdfe49601\5d8d3855d1b7488ea7355bd1_architecture-blur-candlelight-4.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/5d7f98a1e770f0afdfe49601/5d8d386069fe045a391ae2e5_architecture-blur-candlelight-1.jpg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7f98a1e770f0afdfe49601\5d8d386069fe045a391ae2e5_architecture-blur-candlelight-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/5d7f98a1e770f0afdfe49601/5d8d386b6f18798449602158_architecture-blur-candlelight-5.jpg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7f98a1e770f0afdfe49601\5d8d386b6f18798449602158_architecture-blur-candlelight-5.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/5d7f98a1e770f0afdfe49601/5d8d3893a3371dff4081f330_architecture-blur-candlelight-205304.jpg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7f98a1e770f0afdfe49601\5d8d3893a3371dff4081f330_architecture-blur-candlelight-205304.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/5d7d3eeb17c02c092ad96d1f/5d7d40daa3db08b9d933726f_Hero_img_1.jpg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7d3eeb17c02c092ad96d1f\5d7d40daa3db08b9d933726f_Hero_img_1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/5d7d3eeb17c02c092ad96d1f/5d7d4def500ecc7ce3c9ca68_logo.png
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7d3eeb17c02c092ad96d1f\5d7d4def500ecc7ce3c9ca68_logo.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/5d7d3eeb17c02c092ad96d1f/5d7d6bc117c02c28d3da5f45_icon_2.svg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7d3eeb17c02c092ad96d1f\5d7d6bc117c02c28d3da5f45_icon_2.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/5d7d3eeb17c02c092ad96d1f/5d7d6bc1cad5171e2bc7cdfc_icon_1.svg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7d3eeb17c02c092ad96d1f\5d7d6bc1cad5171e2bc7cdfc_icon_1.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/5d7d3eeb17c02c092ad96d1f/5d7d6bc1cb34e411aca04b2f_icon_3.svg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7d3eeb17c02c092ad96d1f\5d7d6bc1cb34e411aca04b2f_icon_3.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/5d7d3eeb17c02c092ad96d1f/5d7d6c3728ecca811ed60f29_blob_2.png
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7d3eeb17c02c092ad96d1f\5d7d6c3728ecca811ed60f29_blob_2.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/5d7d3eeb17c02c092ad96d1f/5d7d6c37500ecc8978ca64bd_blob_1.png
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7d3eeb17c02c092ad96d1f\5d7d6c37500ecc8978ca64bd_blob_1.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/5d7d3eeb17c02c092ad96d1f/5d7d70bf17c02c595eda6fe7_blob_3.png
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7d3eeb17c02c092ad96d1f\5d7d70bf17c02c595eda6fe7_blob_3.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/5d7d3eeb17c02c092ad96d1f/5d7d75f2cad5172ecec8160c_about_us.jpg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7d3eeb17c02c092ad96d1f\5d7d75f2cad5172ecec8160c_about_us.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/5d7d3eeb17c02c092ad96d1f/5d7d75f2cad5176917c8160d_our_missions.jpg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7d3eeb17c02c092ad96d1f\5d7d75f2cad5176917c8160d_our_missions.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/5d7d3eeb17c02c092ad96d1f/5d7f6b2fcbe7bdeda1738b5a_Section_img_1.jpg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7d3eeb17c02c092ad96d1f\5d7f6b2fcbe7bdeda1738b5a_Section_img_1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/5d7d3eeb17c02c092ad96d1f/5d7f76b4bda9c67c2dd015d8_map.jpg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7d3eeb17c02c092ad96d1f\5d7f76b4bda9c67c2dd015d8_map.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/5d7d3eeb17c02c092ad96d1f/5d7f7fb54cc859106d86d3e9_placeholder.svg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7d3eeb17c02c092ad96d1f\5d7f7fb54cc859106d86d3e9_placeholder.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/5d7d3eeb17c02c092ad96d1f/5d7f7fb5cbe7bd36ce74280f_wall-clock.svg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7d3eeb17c02c092ad96d1f\5d7f7fb5cbe7bd36ce74280f_wall-clock.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/5d7d3eeb17c02c092ad96d1f/5d7f91dcbda9c61951d0e198_instagram.svg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7d3eeb17c02c092ad96d1f\5d7f91dcbda9c61951d0e198_instagram.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/5d7d3eeb17c02c092ad96d1f/5d7f91dccbe7bd02b774d83a_twitter.svg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7d3eeb17c02c092ad96d1f\5d7f91dccbe7bd02b774d83a_twitter.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/5d7d3eeb17c02c092ad96d1f/5d7f91dccbe7bd23b674d838_facebook.svg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7d3eeb17c02c092ad96d1f\5d7f91dccbe7bd23b674d838_facebook.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/5d7d3eeb17c02c092ad96d1f/5d80e788550f290316beed41_lines_bg.png
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7d3eeb17c02c092ad96d1f\5d80e788550f290316beed41_lines_bg.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/5d7d3eeb17c02c092ad96d1f/5d8d487886d4c0af0411616e_wall-clock_white.svg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7d3eeb17c02c092ad96d1f\5d8d487886d4c0af0411616e_wall-clock_white.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/5d7d3eeb17c02c092ad96d1f/5d8d4f7d8f129fcd7ae4bfcb_placeholder_white.svg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7d3eeb17c02c092ad96d1f\5d8d4f7d8f129fcd7ae4bfcb_placeholder_white.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/5d7d3eeb17c02c092ad96d1f/5d9100817115f984b6cfa750_Hero_img_2.jpg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7d3eeb17c02c092ad96d1f\5d9100817115f984b6cfa750_Hero_img_2.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/5d7d3eeb17c02c092ad96d1f/5d9116be124e07b19815ec76_Section_img_2.jpg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7d3eeb17c02c092ad96d1f\5d9116be124e07b19815ec76_Section_img_2.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/5d7d3eeb17c02c092ad96d1f/5d91423b7115f91fa1d33391_about_us_2.jpg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7d3eeb17c02c092ad96d1f\5d91423b7115f91fa1d33391_about_us_2.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/5d7d3eeb17c02c092ad96d1f/5d91423ccb36a45cb1d53150_our_missions_2.jpg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7d3eeb17c02c092ad96d1f\5d91423ccb36a45cb1d53150_our_missions_2.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/5d7d3eeb17c02c092ad96d1f/5d92143f8072f173d6acabf5_single_page_img_1.jpg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7d3eeb17c02c092ad96d1f\5d92143f8072f173d6acabf5_single_page_img_1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/5d7d3eeb17c02c092ad96d1f/5d93c9fb14d39f4f20897deb_liberty.jpg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7d3eeb17c02c092ad96d1f\5d93c9fb14d39f4f20897deb_liberty.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/5d7d3eeb17c02c092ad96d1f/5d93c9fb14d39faea8897df3_love-p-500.jpeg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7d3eeb17c02c092ad96d1f\5d93c9fb14d39faea8897df3_love-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/5d7d3eeb17c02c092ad96d1f/5d93c9fb14d39faea8897df3_love.jpg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7d3eeb17c02c092ad96d1f\5d93c9fb14d39faea8897df3_love.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/5d7d3eeb17c02c092ad96d1f/5d93c9fba5592a5ee817f2e3_unity.jpg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7d3eeb17c02c092ad96d1f\5d93c9fba5592a5ee817f2e3_unity.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/5d7d3eeb17c02c092ad96d1f/5d93d6fd640858d8e081ead9_missions-p-500.jpeg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7d3eeb17c02c092ad96d1f\5d93d6fd640858d8e081ead9_missions-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/5d7d3eeb17c02c092ad96d1f/5d93d6fd640858d8e081ead9_missions.jpg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7d3eeb17c02c092ad96d1f\5d93d6fd640858d8e081ead9_missions.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/5d7d3eeb17c02c092ad96d1f/5d94aaf63719d41cfa293c8b_icon_banner.svg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7d3eeb17c02c092ad96d1f\5d94aaf63719d41cfa293c8b_icon_banner.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/5d7d3eeb17c02c092ad96d1f/5d94aaf64cde5d027a62b4eb_icon_cross.svg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7d3eeb17c02c092ad96d1f\5d94aaf64cde5d027a62b4eb_icon_cross.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/5d7d3eeb17c02c092ad96d1f/5d94aaf64cde5d37c562b4ee_icon_grapes.svg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7d3eeb17c02c092ad96d1f\5d94aaf64cde5d37c562b4ee_icon_grapes.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/5d7d3eeb17c02c092ad96d1f/5d94aaf64cde5da2af62b4ed_icon_holy-ghost.svg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7d3eeb17c02c092ad96d1f\5d94aaf64cde5da2af62b4ed_icon_holy-ghost.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/5d7d3eeb17c02c092ad96d1f/5d94aaf6bcd9bdf800863f39_icon_christ.svg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7d3eeb17c02c092ad96d1f\5d94aaf6bcd9bdf800863f39_icon_christ.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/5d7d3eeb17c02c092ad96d1f/5d94aaf6fe8a6f73daa577fd_icon_eucharist.svg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7d3eeb17c02c092ad96d1f\5d94aaf6fe8a6f73daa577fd_icon_eucharist.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/5d7d3eeb17c02c092ad96d1f/5d974aa589c88c3bc6cc84ed_Webclip.png
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7d3eeb17c02c092ad96d1f\5d974aa589c88c3bc6cc84ed_Webclip.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/5d7d3eeb17c02c092ad96d1f/5d974b0dc39a7ea7e3997666_Favicon – 2.png
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7d3eeb17c02c092ad96d1f\5d974b0dc39a7ea7e3997666_Favicon – 2.png
+Content Type: image/png
+
+Uri: https://assets.website-files.com/5d7d3eeb17c02c092ad96d1f/css/virgo.webflow.b18fc987f.css
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7d3eeb17c02c092ad96d1f\css\virgo.webflow.b18fc987f.css
+Content Type: text/css
+
+Uri: https://assets.website-files.com/5d7d3eeb17c02c092ad96d1f/js/webflow.b8251a2ef.js
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7d3eeb17c02c092ad96d1f\js\webflow.b8251a2ef.js
+Content Type: text/javascript
+
+Uri: https://assets.website-files.com/5d7f98a1e770f0afdfe49601/5d920a7f8072f12e69abf9f6_christiana-rivers-O_XIvDy-1.jpg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7f98a1e770f0afdfe49601\5d920a7f8072f12e69abf9f6_christiana-rivers-O_XIvDy-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/5d7f98a1e770f0afdfe49601/5d920a940984c52f04958a0b_christiana-rivers-O_XIvDy0pcs-unsplash.jpg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7f98a1e770f0afdfe49601\5d920a940984c52f04958a0b_christiana-rivers-O_XIvDy0pcs-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/5d7f98a1e770f0afdfe49601/5d920aa1774fe729f1800e1b_christiana-rivers-O_XIvDy-2.jpg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7f98a1e770f0afdfe49601\5d920aa1774fe729f1800e1b_christiana-rivers-O_XIvDy-2.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/5d7f98a1e770f0afdfe49601/5d920aad71d8c344968038cc_christiana-rivers-O_XIvDy-3.jpg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7f98a1e770f0afdfe49601\5d920aad71d8c344968038cc_christiana-rivers-O_XIvDy-3.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/5d7f98a1e770f0afdfe49601/5d9283efc092fb42ab6545a4_foto-sushi-6anudmpILw4-unsplash-p-500.jpeg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7f98a1e770f0afdfe49601\5d9283efc092fb42ab6545a4_foto-sushi-6anudmpILw4-unsplash-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/5d7f98a1e770f0afdfe49601/5d9283efc092fb42ab6545a4_foto-sushi-6anudmpILw4-unsplash.jpg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7f98a1e770f0afdfe49601\5d9283efc092fb42ab6545a4_foto-sushi-6anudmpILw4-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/5d7f98a1e770f0afdfe49601/5d975f3fb3e1726c6ad5cd98_about_us.jpg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\5d7f98a1e770f0afdfe49601\5d975f3fb3e1726c6ad5cd98_about_us.jpg
+Content Type: image/jpeg
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\img\background-image.svg
+Content Type: image/svg+xml
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=5d7d3eeb17c02c092ad96d1f
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\js\jquery-3.5.1.min.dc5e7f18c8.js
+Content Type: application/javascript
+
+Uri: https://virgo.webflow.io/
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\index.htm
+Content Type: text/html
+
+Uri: https://virgo.webflow.io/about
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\about.html
+Content Type: text/html
+
+Uri: https://virgo.webflow.io/blog
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\blog.html
+Content Type: text/html
+
+Uri: https://virgo.webflow.io/changelog
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\changelog.html
+Content Type: text/html
+
+Uri: https://virgo.webflow.io/contact
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\contact.html
+Content Type: text/html
+
+Uri: https://virgo.webflow.io/event/diversity-discipleship-discussion-group
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\event\diversity-discipleship-discussion-group.html
+Content Type: text/html
+
+Uri: https://virgo.webflow.io/event/gods-healing-power-in-lives-as-we-work
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\event\gods-healing-power-in-lives-as-we-work.html
+Content Type: text/html
+
+Uri: https://virgo.webflow.io/event/group-led-by-people-who-have-been-through-divorce
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\event\group-led-by-people-who-have-been-through-divorce.html
+Content Type: text/html
+
+Uri: https://virgo.webflow.io/event/lets-gather-together-as-a-church-family
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\event\lets-gather-together-as-a-church-family.html
+Content Type: text/html
+
+Uri: https://virgo.webflow.io/event/mens-bible-study-the-downtown-study
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\event\mens-bible-study-the-downtown-study.html
+Content Type: text/html
+
+Uri: https://virgo.webflow.io/event/womens-bible-study-the-amazing-collection
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\event\womens-bible-study-the-amazing-collection.html
+Content Type: text/html
+
+Uri: https://virgo.webflow.io/events
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\events.html
+Content Type: text/html
+
+Uri: https://virgo.webflow.io/home-extra
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\home-extra.html
+Content Type: text/html
+
+Uri: https://virgo.webflow.io/image-license
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\image-license.html
+Content Type: text/html
+
+Uri: https://virgo.webflow.io/missions
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\missions.html
+Content Type: text/html
+
+Uri: https://virgo.webflow.io/post/here-are-a-few-more-reasons-to-thank-god-for-what-hes-doing
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\post\here-are-a-few-more-reasons-to-thank-god-for-what-hes-doing.html
+Content Type: text/html
+
+Uri: https://virgo.webflow.io/post/learn-how-to-be-filled-with-the-holy-spirit
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\post\learn-how-to-be-filled-with-the-holy-spirit.html
+Content Type: text/html
+
+Uri: https://virgo.webflow.io/post/new-fuse-schedule-starts-next-week
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\post\new-fuse-schedule-starts-next-week.html
+Content Type: text/html
+
+Uri: https://virgo.webflow.io/post/not-sure-what-the-bible-says-on-a-topic-start-here
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\post\not-sure-what-the-bible-says-on-a-topic-start-here.html
+Content Type: text/html
+
+Uri: https://virgo.webflow.io/post/this-weekend-god-wants-to-live-in-you
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\post\this-weekend-god-wants-to-live-in-you.html
+Content Type: text/html
+
+Uri: https://virgo.webflow.io/post/whats-the-latest-on-construction-at-virgo
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\post\whats-the-latest-on-construction-at-virgo.html
+Content Type: text/html
+
+Uri: https://virgo.webflow.io/style-guide
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\style-guide.html
+Content Type: text/html
+
+Uri: https://virgo.webflow.io/team/catherine-gibbs
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\team\catherine-gibbs.html
+Content Type: text/html
+
+Uri: https://virgo.webflow.io/team/enrique-olivares
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\team\enrique-olivares.html
+Content Type: text/html
+
+Uri: https://virgo.webflow.io/team/jocelyn-morris
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\team\jocelyn-morris.html
+Content Type: text/html
+
+Uri: https://virgo.webflow.io/team/linda-henry
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\team\linda-henry.html
+Content Type: text/html
+
+Uri: https://virgo.webflow.io/team/richard-blake
+File Name: C:\Downloaded Web Sites\virgo.webflow.io\team\richard-blake.html
+Content Type: text/html
+
